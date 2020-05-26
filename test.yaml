@@ -2,6 +2,7 @@ Parameters:
   EnvironmentName:
    Description: env name
    Type: String
+   Default: test
   VpcCIDR:
    Description: VPC CIDR Block
    Type: String
